@@ -1,3 +1,3 @@
 # initial_pr_test
-# EDITED FROM UI
-version 0.0.5
+# EDITED from LocalRepo
+version 0.0.6
